@@ -1,9 +1,1 @@
 Flask
-flask-cors
-PyPDF2
-google-generativeai
-langchain
-faiss-cpu
-langchain_community
-langchain_google_genai
-python-dotenv
